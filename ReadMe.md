@@ -1,5 +1,7 @@
-Rich Filemanager
+Zeeka Filemanager
 ========================
+
+Zeeka Filemanager is a fork of Rich Filemanager & makes an effort to remove the node-sass dependency as it causes EACCESS installation errors when Rich Filemanager is used as a dependency in other projects.
 
 Rich Filemanager is an open-source file manager released under MIT license.
 Based on the @simogeo [Filemanager](https://github.com/simogeo/Filemanager), with a lot of improvements and new features:

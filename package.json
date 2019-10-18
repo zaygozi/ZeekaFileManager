@@ -1,11 +1,11 @@
 {
-  "name": "rich-filemanager",
-  "version": "2.7.6",
+  "name": "zeeka-filemanager",
+  "version": "0.1.0",
   "description": "Highly customizable open-source file manager",
   "main": "scripts/filemanager.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/servocoder/RichFilemanager.git"
+    "url": "git+https://github.com/zaygozi/ZeekaFileManager.git"
   },
   "keywords": [
     "filemanager",
@@ -17,12 +17,12 @@
     "js",
     "php"
   ],
-  "author": "Pavel Solomienko",
+  "author": "Zaygo Zi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/servocoder/RichFilemanager/issues"
+    "url": "https://github.com/zaygozi/ZeekaFileManager/issues"
   },
-  "homepage": "https://github.com/servocoder/RichFilemanager#readme",
+  "homepage": "https://github.com/zaygozi/ZeekaFileManager#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",
@@ -33,7 +33,6 @@
     "uglify-js": "^3.0.27"
   },
   "dependencies": {
-    "node-sass": "^4.9.0",
     "sass": "^1.0.0-beta.5.3"
   }
 }
